@@ -232,7 +232,7 @@
             </field>
         </record>
 
-        <menuitem name="My Dashboard" id="ks_dashboard_ninja.board_menu_root"
+        <menuitem name="Informes" id="ks_dashboard_ninja.board_menu_root"
                   web_icon="ks_dashboard_ninja,static/description/icon.png"
                   action="ks_dashboard_ninja.board_dashboard_action_window"/>
 
